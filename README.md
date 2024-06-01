@@ -1,0 +1,3 @@
+
+Keeping CHUD 3.5.2 Alive!
+​CHUD, or "Computer Hardware Understanding Development Tools", was a toolset made by Apple Computers for troubleshooting and optimizing PowerPC based Macs. Version 3.5.2 enabled a CPU throttling feature or "napping." When CPU throttling or napping was used on the PowerMac G4, iMac G4, and other PowerPC models, CPU temperatures and acoustic noise were drastically lowered. Additionally, Nap Enabler is a helper utility to automatically enable "Nap" mode after each reboot. This requires the installation of CHUD 3.5.2 to function. I have created this page to provide this toolset to anyone who still uses these excellent classic Apple computers. Enjoy!
